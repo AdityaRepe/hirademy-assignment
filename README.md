@@ -55,11 +55,11 @@ This frontend application is designed to interact with the APIs provided by soft
 
 ### Demo Recording:
 
-A demo video showcasing the functionality of the frontend application, including navigation between pages, data loading from APIs, and interaction with the UI, is available [here](<demo_video_url>).
+A demo video showcasing the functionality of the frontend application, including navigation between pages, data loading from APIs, and interaction with the UI, is available [here](<https://drive.google.com/file/d/1mcGASc6spK8uVG19YeUqtP7vHIqUAlGW/view?usp=sharing>).
 
 ### GitHub Repository:
 
-The frontend application is hosted on GitHub. You can access the repository [here](<repository_url>).
+The frontend application is hosted on GitHub. You can access the repository [here](<https://github.com/AdityaRepe/hirademy-assignment>).
 
 ---
 
