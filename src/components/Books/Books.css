@@ -1,0 +1,65 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  
+  .card {
+    width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+    cursor: pointer;
+  }
+  
+  .card h3 {
+    margin-top: 0;
+    font-weight: bold;
+  }
+  
+  .popup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .popup h2 {
+    margin-top: 0;
+  }
+  
+  .popup button {
+    margin-top: 10px;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .popup .closeButton {
+    background-color: #d9534f;
+    color: white;
+    border: none;
+  }
+  
+  .popup .closeButton:hover {
+    background-color: #c9302c;
+  }
+  
+  .popup .orderButton {
+    background-color: #5cb85c;
+    color: white;
+    border: none;
+    margin-left: 5px
+  }
+  
+  .popup .orderButton:hover {
+    background-color: #4cae4c;
+  }
+  
